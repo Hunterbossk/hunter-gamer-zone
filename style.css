@@ -1,0 +1,115 @@
+*
+{
+margin: 0;
+padding: 0;
+
+}
+header{
+background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../index/apk.jpg);
+height: 100vh;
+background-position: center;
+background-size: cover;
+}
+div .logo img{
+
+float: left;
+height: auto;
+width: 150px;
+
+    }
+
+ul{
+float: right;
+margin-top: 25px;
+margin-right: 25px;
+
+}
+
+ul li{
+    display: inline-block;
+}
+
+ul li a{
+
+text-decoration: none;
+color: #fff;
+border: 1px solid transparent;
+padding: 3px 10px;
+transition: 0.6s ease;
+}
+ ul li a:hover{
+color: #000;
+background-color: #fff;
+
+ }
+
+
+.mr{
+
+color: #fff;
+height: 25px;
+font-size: large;
+font-style: oblique;
+}
+
+
+.p1
+{color: #fff;
+    height: 50px;
+    margin-left: 10px;
+
+
+}
+
+.p2{
+    color: #fff;
+    height: 50px;
+    margin-left: 10px;
+
+}
+
+.p3
+{color: #fff;
+    height: 50px;
+    margin-left: 10px;
+
+
+}
+
+.p4{
+    color: #fff;
+    height: 50px;
+    margin-left: 10px;
+
+}
+ 
+.p5{
+    color: #fff;
+    height: 50px;
+    margin-left: 10px;
+
+
+}
+
+.a{
+text-decoration: none;
+color: rgb(222, 131, 250);
+border: 1px solid transparent;
+padding: 3px 10px;
+transition: 0.6s ease;
+
+}
+
+.a:hover{
+color: #000;
+background-color: #fff;
+
+}
+
+#apk{
+background-color: #fff;
+color: #000;
+
+}
+
+

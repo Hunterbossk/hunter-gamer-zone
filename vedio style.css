@@ -1,0 +1,120 @@
+*{
+
+margin: 0;
+padding: 0;
+}
+
+div .logo img{
+
+height: auto;
+width: 150px;
+float: left;
+}
+
+
+header{
+
+background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(../index/bk.jpg);
+height: 100vh;
+background-position: center;
+background-size: cover;
+
+}
+
+ul
+{
+margin-top:25px ;
+margin-right: 25px;
+float: right;
+list-style-type: none;
+}
+
+ul li {
+
+    display: inline-block;
+}
+
+
+ul li a{
+
+    border: 1px solid transparent;
+    text-decoration: none;
+color: #fff;
+padding: 3px 10px;
+transition: 0.6s ease;
+}
+ul li a:hover{
+background-color:#fff ;
+color: #000;
+
+}
+
+
+
+.mr{
+
+color: rgb(4, 165, 4);
+
+}
+
+
+.p1{
+color: #fff;
+height: 50px;
+margin-left: 10px;
+}
+
+.p2{
+
+    color: #fff;
+    height: 50px;
+    margin-left: 10px;
+
+}
+
+.p3
+{
+
+color: #fff;
+height: 50PX;
+margin-left: 10PX;
+}
+
+.p4{
+    color: #fff;
+height: 50PX;
+margin-left: 10PX;
+}
+
+.p5{
+    color: #fff;
+height: 50PX;
+margin-left: 10PX;
+}
+
+.a{
+    border: 1px solid transparent;
+color: rgb(165, 177, 8);
+padding: 3px 10px;
+text-decoration: none;
+transition: 0.6s ease;
+}
+.a:hover{
+
+background-color: #fff;
+color: #000;
+}
+
+.v{
+    
+    background-color: #fff;
+color: #000;
+
+}
+
+
+
+
+
+
+
